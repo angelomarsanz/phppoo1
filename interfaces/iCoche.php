@@ -9,5 +9,3 @@ interface iCoche {
     public function encender();
     public function __destruct();
 }
-
-?>
